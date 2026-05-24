@@ -1,0 +1,11 @@
+__pycache__/
+
+data/hrnet/pretrained
+data/3DHP_dataset_orig_hrnet.h5
+data/H36M_dataset_h36m_hrnet.h5
+data/3DPW_dataset_orig_hrnet.h5
+data/loader_h36m
+data/loader_3dhp
+data/loader_3dpw
+data/smpl_models
+demo/results

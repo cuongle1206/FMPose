@@ -1,0 +1,18 @@
+
+--find-links https://download.pytorch.org/whl/cu121
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+numpy==1.23.5
+smplx[all]
+matplotlib
+alive_progress
+scipy
+wandb
+tables
+cdflib
+imageio[ffmpeg]
+tqdm
+yacs
+prettytable
+scikit-learn
