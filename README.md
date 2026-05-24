@@ -5,7 +5,7 @@ Flow Matching for Probabilistic Monocular 3D Human Pose Estimation
 [![Paper](https://img.shields.io/badge/arXiv-2601.16763-red)](https://arxiv.org/abs/2601.16763) [![OpenReview](https://img.shields.io/badge/OpenReview-TMLR-blue?logo=openreview)](https://openreview.net/forum?id=UlpH4XBLR4)
 
 <div align="center">
-<img src="figures/pipeline.png" width="1200" alt="logo" style="background-color:white;"/>
+<img src="figures/pipeline.png" width="1200" alt="logo"/>
 </div>
 
 
