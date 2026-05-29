@@ -179,6 +179,8 @@ The demo images are collected from the [KTH-Football](https://www.csc.kth.se/cva
 python demo/inference.py
 ```
 
+The pretrained HRNet and FMPose could also be found in our [HuggingFace](https://huggingface.co/datasets/makule/FMPose).
+
 # Citation
 
 If you find our project helpful, please cite the paper as
